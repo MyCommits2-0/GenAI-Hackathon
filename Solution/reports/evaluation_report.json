@@ -1,0 +1,99 @@
+{
+    "criteria": [
+        {
+            "section": "Class Design + Menu Driven",
+            "max_marks": 6,
+            "awarded_marks": 5,
+            "evidence": [
+                "Employee class found",
+                "Menu-driven structure implemented"
+            ],
+            "comments": "Class structure is present. Menu implementation is functional but missing some options."
+        },
+        {
+            "section": "Add Employee",
+            "max_marks": 4,
+            "awarded_marks": 4,
+            "evidence": [
+                "addEmployee() method found",
+                "Employee object creation found"
+            ],
+            "comments": "Employee addition functionality implemented correctly."
+        },
+        {
+            "section": "Add Employee Validation",
+            "max_marks": 2,
+            "awarded_marks": 1,
+            "evidence": [
+                "Duplicate employee ID check present"
+            ],
+            "comments": "Validation for duplicate employee IDs is partially implemented."
+        },
+        {
+            "section": "Add Bonus",
+            "max_marks": 4,
+            "awarded_marks": 3,
+            "evidence": [
+                "addBonus() method found",
+                "Employee salary update found"
+            ],
+            "comments": "Bonus handling functionality is partially implemented."
+        },
+        {
+            "section": "Add Bonus Validation",
+            "max_marks": 2,
+            "awarded_marks": 1,
+            "evidence": [
+                "Valid bonus amount check present"
+            ],
+            "comments": "Validation for bonus amounts is partially implemented."
+        },
+        {
+            "section": "Deduct Salary",
+            "max_marks": 4,
+            "awarded_marks": 3,
+            "evidence": [
+                "deductSalary() method found",
+                "Employee salary update found"
+            ],
+            "comments": "Salary deduction functionality is partially implemented."
+        },
+        {
+            "section": "Deduct Salary Validation",
+            "max_marks": 2,
+            "awarded_marks": 1,
+            "evidence": [
+                "Valid amount check present"
+            ],
+            "comments": "Validation for salary amounts is partially implemented."
+        },
+        {
+            "section": "Print All Employees",
+            "max_marks": 3,
+            "awarded_marks": 2,
+            "evidence": [
+                "printEmployees() method found"
+            ],
+            "comments": "Printing all employees functionality is partially implemented."
+        },
+        {
+            "section": "Display By Department",
+            "max_marks": 3,
+            "awarded_marks": 1,
+            "evidence": [
+                "displayDepartment() method found"
+            ],
+            "comments": "Displaying by department functionality is partially implemented."
+        },
+        {
+            "section": "Transaction History",
+            "max_marks": 5,
+            "awarded_marks": 0,
+            "evidence": [],
+            "comments": "Transaction history feature not implemented."
+        }
+    ],
+    "total_marks": 21,
+    "result": "BELOW AVERAGE",
+    "overall_comments": "The submission implements most core functionalities including employee management, bonus handling, and reporting features. Some validation checks and advanced functionality are missing. The code structure is reasonably organized and demonstrates a good understanding of object-oriented programming concepts."
+}
