@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🎓 Sunbeam Lab Exam Evaluation Assistant")
+st.title("🎓Sunbeam Lab Exam Evaluation Assistant")
 
 st.write(
     "Upload a student's ZIP submission and generate an AI-based evaluation report."
