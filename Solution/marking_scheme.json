@@ -1,0 +1,44 @@
+{
+    "criteria": [
+        {
+            "name": "Class Design + Menu Driven",
+            "marks": 6
+        },
+        {
+            "name": "Add Employee",
+            "marks": 4
+        },
+        {
+            "name": "Add Employee Validation",
+            "marks": 2
+        },
+        {
+            "name": "Add Bonus",
+            "marks": 4
+        },
+        {
+            "name": "Add Bonus Validation",
+            "marks": 2
+        },
+        {
+            "name": "Deduct Salary",
+            "marks": 4
+        },
+        {
+            "name": "Deduct Salary Validation",
+            "marks": 2
+        },
+        {
+            "name": "Print All Employees",
+            "marks": 3
+        },
+        {
+            "name": "Display By Department",
+            "marks": 3
+        },
+        {
+            "name": "Transaction History",
+            "marks": 5
+        }
+    ]
+}
